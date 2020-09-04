@@ -1,0 +1,13 @@
+C:\Users\Владислав Кот\source\repos\oop lab2\oop lab2\bin\Debug\oop lab2.exe.config
+C:\Users\Владислав Кот\source\repos\oop lab2\oop lab2\bin\Debug\oop lab2.exe
+C:\Users\Владислав Кот\source\repos\oop lab2\oop lab2\bin\Debug\oop lab2.pdb
+C:\Users\Владислав Кот\source\repos\oop lab2\oop lab2\obj\Debug\oop lab2.csprojAssemblyReference.cache
+C:\Users\Владислав Кот\source\repos\oop lab2\oop lab2\obj\Debug\oop lab2.csproj.CoreCompileInputs.cache
+C:\Users\Владислав Кот\source\repos\oop lab2\oop lab2\obj\Debug\oop lab2.exe
+C:\Users\Владислав Кот\source\repos\oop lab2\oop lab2\obj\Debug\oop lab2.pdb
+D:\grsu\ООП\lab2\oop lab2\bin\Debug\oop lab2.exe.config
+D:\grsu\ООП\lab2\oop lab2\bin\Debug\oop lab2.exe
+D:\grsu\ООП\lab2\oop lab2\bin\Debug\oop lab2.pdb
+D:\grsu\ООП\lab2\oop lab2\obj\Debug\oop lab2.csprojAssemblyReference.cache
+D:\grsu\ООП\lab2\oop lab2\obj\Debug\oop lab2.exe
+D:\grsu\ООП\lab2\oop lab2\obj\Debug\oop lab2.pdb

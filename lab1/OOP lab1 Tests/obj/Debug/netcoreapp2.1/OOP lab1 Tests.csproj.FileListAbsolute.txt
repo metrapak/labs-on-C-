@@ -1,0 +1,35 @@
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\obj\Debug\netcoreapp2.1\OOP lab1 Tests.csprojAssemblyReference.cache
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\obj\Debug\netcoreapp2.1\OOP lab1 Tests.csproj.CoreCompileInputs.cache
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\obj\Debug\netcoreapp2.1\OOP lab1 Tests.AssemblyInfoInputs.cache
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\obj\Debug\netcoreapp2.1\OOP lab1 Tests.AssemblyInfo.cs
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1 Tests.deps.json
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1 Tests.runtimeconfig.json
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1 Tests.runtimeconfig.dev.json
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1 Tests.dll
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1 Tests.pdb
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1.exe
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1.pdb
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1.exe.config
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\obj\Debug\netcoreapp2.1\OOP lab1 Tests.csproj.CopyComplete
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\obj\Debug\netcoreapp2.1\OOP lab1 Tests.dll
+C:\Users\Владислав Кот\source\repos\OOP lab1\OOP lab1 Tests\obj\Debug\netcoreapp2.1\OOP lab1 Tests.pdb
+D:\grsu\ООП\lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\grsu\ООП\lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\grsu\ООП\lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\grsu\ООП\lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1 Tests.deps.json
+D:\grsu\ООП\lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1 Tests.runtimeconfig.json
+D:\grsu\ООП\lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1 Tests.runtimeconfig.dev.json
+D:\grsu\ООП\lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1 Tests.dll
+D:\grsu\ООП\lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1 Tests.pdb
+D:\grsu\ООП\lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1.exe
+D:\grsu\ООП\lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1.pdb
+D:\grsu\ООП\lab1\OOP lab1 Tests\bin\Debug\netcoreapp2.1\OOP lab1.exe.config
+D:\grsu\ООП\lab1\OOP lab1 Tests\obj\Debug\netcoreapp2.1\OOP lab1 Tests.csprojAssemblyReference.cache
+D:\grsu\ООП\lab1\OOP lab1 Tests\obj\Debug\netcoreapp2.1\OOP lab1 Tests.AssemblyInfoInputs.cache
+D:\grsu\ООП\lab1\OOP lab1 Tests\obj\Debug\netcoreapp2.1\OOP lab1 Tests.AssemblyInfo.cs
+D:\grsu\ООП\lab1\OOP lab1 Tests\obj\Debug\netcoreapp2.1\OOP lab1 Tests.csproj.CopyComplete
+D:\grsu\ООП\lab1\OOP lab1 Tests\obj\Debug\netcoreapp2.1\OOP lab1 Tests.dll
+D:\grsu\ООП\lab1\OOP lab1 Tests\obj\Debug\netcoreapp2.1\OOP lab1 Tests.pdb

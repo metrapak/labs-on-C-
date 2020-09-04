@@ -1,0 +1,6 @@
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\b\oop lab2\bin\Debug\oop lab2.exe.config
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\b\oop lab2\bin\Debug\oop lab2.exe
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\i\oop lab2\Debug\oop lab2.csproj.CoreCompileInputs.cache
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\i\oop lab2\Debug\oop lab2.csproj.CopyComplete
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\i\oop lab2\Debug\oop lab2.exe
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\i\oop lab2\Debug\oop lab2.csprojAssemblyReference.cache

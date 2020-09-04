@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\УЧЕБА\\grsu\\5semestr\\ООП\\lab1\\OOP lab1 Tests\\OOP lab1 Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\УЧЕБА\\grsu\\5semestr\\ООП\\lab1\\OOP lab1 Tests\\OOP lab1 Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\УЧЕБА\\grsu\\5semestr\\ООП\\lab1\\OOP lab1 Tests\\OOP lab1 Tests.csproj",
+        "projectName": "OOP lab1 Tests",
+        "projectPath": "D:\\УЧЕБА\\grsu\\5semestr\\ООП\\lab1\\OOP lab1 Tests\\OOP lab1 Tests.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\УЧЕБА\\grsu\\5semestr\\ООП\\lab1\\OOP lab1 Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\УЧЕБА\\grsu\\5semestr\\ООП\\lab1\\OOP lab1\\OOP lab1.csproj": {
+                "projectPath": "D:\\УЧЕБА\\grsu\\5semestr\\ООП\\lab1\\OOP lab1\\OOP lab1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\УЧЕБА\\grsu\\5semestr\\ООП\\lab1\\OOP lab1\\OOP lab1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\УЧЕБА\\grsu\\5semestr\\ООП\\lab1\\OOP lab1\\OOP lab1.csproj",
+        "projectName": "OOP lab1",
+        "projectPath": "D:\\УЧЕБА\\grsu\\5semestr\\ООП\\lab1\\OOP lab1\\OOP lab1.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

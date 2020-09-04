@@ -1,0 +1,11 @@
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\b\oop lab2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\b\oop lab2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\b\oop lab2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\b\oop lab2Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\b\oop lab2Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\b\oop lab2Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\b\oop lab2Tests\bin\Debug\oop lab2Tests.dll
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\i\oop lab2Tests\Debug\oop lab2Tests.csproj.CoreCompileInputs.cache
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\i\oop lab2Tests\Debug\oop lab2Tests.csproj.CopyComplete
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\i\oop lab2Tests\Debug\oop lab2Tests.dll
+C:\Users\Владислав Кот\source\repos\oop lab2\.vs\oop lab2\lut\0\i\oop lab2Tests\Debug\oop lab2Tests.csprojAssemblyReference.cache
